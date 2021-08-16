@@ -2,7 +2,7 @@
  <br />
  <p align="center">
    <a href="https://github.com/korakoe/LoliTron5000">
-     <img src="GitArt/logo.png" alt="Logo" width="80" height="80">
+     <img src="GitArt/logo.png" alt="Logo" width="512" height="512">
    </a>
 
 
